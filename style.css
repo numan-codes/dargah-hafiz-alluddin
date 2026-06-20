@@ -386,7 +386,7 @@ font-size:32px;
 /* ✅ FIXED: top-right corner in mobile */
 .hero-top{
 position:absolute;
-top:10px;
+top:70px;
 right:10px;
 z-index:1100;
 }
