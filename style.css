@@ -386,8 +386,8 @@ font-size:32px;
 
 .hero-top{
 position:absolute;
-top:75px;
-right:75px;
+top:90px;
+right:10px;
 z-index:1100;
 }
 
